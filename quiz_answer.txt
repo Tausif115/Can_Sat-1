@@ -1,0 +1,31 @@
+1. Which of the following is an integer value?
+ans:  3145
+
+2. what will be the output of the following code 15%4
+ans: 3
+
+3. What will be the output of the following code?
+
+int x = 10;
+int y = 12;
+if(x>=y || x<=y)
+{
+	printf("hi");
+}
+else
+{
+	printf("hello");
+}
+ans: hi
+
+4. What will be the output of the following code?
+
+for(int i=0;i<=5;i++)
+{
+     for(int j=1;j<3;j++)
+     {
+         printf("*");
+     }
+}
+ans: 12
+
